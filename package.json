@@ -1,6 +1,6 @@
 {
   "name": "abc-oop-bank",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is bank by using object oriented programming",
   "main": "app.js",
   "type": "module",
